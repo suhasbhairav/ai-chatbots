@@ -1,0 +1,15 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "hello, You there?",
+        "hi",
+        "wassup?"
+      ],
+      "responses": [
+        "Hey", "How are you?"
+      ]
+    }
+  ]
+}
